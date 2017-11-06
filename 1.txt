@@ -3,4 +3,4 @@ I am test for issue 1
 modify issue
 
 关联issue : Issue #1;
-关闭issue : Close #1;
+关闭issue : merge的时候加上 close #1;
